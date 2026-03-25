@@ -1,10 +1,16 @@
 # NostalgiaHub – Sistema de Gestión de Colecciones Nostálgicas
 
-## Descripción del Sistema
+## Tipo de aplicación
+
+Aplicación de escritorio con interfaz gráfica desarrollada para gestionar colecciones nostálgicas.
+
+---
+
+# Descripción del Sistema
 
 **NostalgiaHub** es un sistema diseñado para permitir a los usuarios organizar y gestionar objetos coleccionables con valor sentimental o histórico, agrupándolos en diferentes categorías.
 
-El sistema permite registrar, visualizar, editar y eliminar elementos pertenecientes a una colección, facilitando la administración de objetos nostálgicos de manera organizada.
+El sistema permite **registrar, visualizar, editar y eliminar elementos** pertenecientes a una colección, facilitando la administración de objetos nostálgicos de manera organizada.
 
 Las colecciones pueden incluir diferentes tipos de objetos, por ejemplo:
 
@@ -19,7 +25,7 @@ La aplicación permite que los usuarios organicen sus objetos por categorías, r
 
 ---
 
-## Problema
+# Problema
 
 Muchas personas poseen colecciones de objetos nostálgicos con valor sentimental o histórico, pero no cuentan con una herramienta sencilla que les permita administrarlas de manera organizada.
 
@@ -39,7 +45,7 @@ Por esta razón, se propone el desarrollo de un sistema que permita gestionar co
 
 ---
 
-## Alcance del Sistema
+# Alcance del Sistema
 
 El sistema permitirá realizar las siguientes acciones:
 
@@ -52,13 +58,13 @@ El sistema permitirá realizar las siguientes acciones:
 * Buscar elementos dentro de las colecciones.
 * Mostrar la cantidad de elementos registrados por categoría.
 
-El sistema estará enfocado en la gestión básica de colecciones, sin incluir funcionalidades avanzadas como autenticación de usuarios o almacenamiento en bases de datos externas.
+El sistema estará enfocado en la **gestión básica de colecciones**, sin incluir funcionalidades avanzadas como autenticación de usuarios o almacenamiento en bases de datos externas.
 
 ---
 
-## Actores del Sistema
+# Actores del Sistema
 
-### Usuario
+## Usuario
 
 El **usuario** es la persona que interactúa con el sistema para gestionar sus colecciones nostálgicas.
 
@@ -74,7 +80,7 @@ El usuario podrá:
 
 ---
 
-## Funcionalidades del Sistema
+# Funcionalidades del Sistema
 
 El sistema contará con las siguientes funcionalidades principales:
 
@@ -89,7 +95,7 @@ El sistema contará con las siguientes funcionalidades principales:
 
 ---
 
-## Reglas del Sistema
+# Reglas del Sistema
 
 El sistema debe cumplir con las siguientes reglas:
 
@@ -98,4 +104,5 @@ El sistema debe cumplir con las siguientes reglas:
 * Para editar un elemento, el usuario debe seleccionarlo previamente.
 * Los campos del elemento deben contener información válida antes de ser registrados.
 * Al eliminar una categoría, también se eliminarán los elementos asociados a ella.
+
 
