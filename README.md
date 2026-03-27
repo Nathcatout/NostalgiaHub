@@ -93,16 +93,5 @@ El sistema contará con las siguientes funcionalidades principales:
 7. Buscar elementos dentro de las colecciones.
 8. Mostrar la cantidad de elementos registrados por categoría.
 
----
-
-# Reglas del Sistema
-
-El sistema debe cumplir con las siguientes reglas:
-
-* No se deben permitir categorías duplicadas.
-* Los elementos solo pueden agregarse a categorías existentes.
-* Para editar un elemento, el usuario debe seleccionarlo previamente.
-* Los campos del elemento deben contener información válida antes de ser registrados.
-* Al eliminar una categoría, también se eliminarán los elementos asociados a ella.
 
 
