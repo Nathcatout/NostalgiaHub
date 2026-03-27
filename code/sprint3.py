@@ -1,3 +1,19 @@
+"""
+Sistema de Gestión de Colecciones Nostálgicas
+
+Este programa permite administrar categorías y elementos de colección
+mediante una interfaz gráfica desarrollada con Tkinter.
+
+Permite:
+- Crear y eliminar categorías
+- Agregar, editar y eliminar elementos
+- Buscar elementos
+- Contar elementos por categoría
+
+@author Nathalia Mejia y Isaura Banguera
+@version 1.0.0
+"""
+
 from dataclasses import dataclass
 import tkinter as tk
 from tkinter import messagebox
